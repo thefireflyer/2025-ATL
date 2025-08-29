@@ -12,7 +12,7 @@
   <a>
     <img alt="IDE CI/CD"></img>
   </a>
-  <a>
+  <a href="LICENSE">
     <img alt="AGPLv3 License"></img>
   </a>
 </div>
